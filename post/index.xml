@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ACM/IFIP/USENIX MIDDLEWARE</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on ACM/IFIP/USENIX MIDDLEWARE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jun 2021 12:43:48 -0400</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Policy Against Discrimination and Harassment</title>
+      <link>/post/harassment/</link>
+      <pubDate>Fri, 25 Jun 2021 12:43:48 -0400</pubDate>
+      
+      <guid>/post/harassment/</guid>
+      <description>MIDDLEWARE is an ACM event and every edition of MIDDLEWARE strictly abides by the ACM Policy Against Discrimination and Harassment
+Any individual who experiences or witnesses harassment (as described above) at MIDDLEWARE or any ACM activity should follow the ACM Procedures for Reporting Unacceptable Behavior.</description>
+    </item>
+    
+    <item>
+      <title>Want to Host MIDDLEWARE 2023/24?</title>
+      <link>/post/bids/</link>
+      <pubDate>Fri, 25 Jun 2021 12:36:52 -0400</pubDate>
+      
+      <guid>/post/bids/</guid>
+      <description>For 2023 and 2024, the steering committee is primarily looking for bids locations outside North America.
+More details on submitting an expression of interest are available here</description>
+    </item>
+    
+  </channel>
+</rss>

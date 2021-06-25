@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ACM/IFIP/USENIX MIDDLEWARE</title>
+    <link>/</link>
+    <description>Recent content in Home on ACM/IFIP/USENIX MIDDLEWARE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jun 2021 12:43:48 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Policy Against Discrimination and Harassment</title>
+      <link>/post/harassment/</link>
+      <pubDate>Fri, 25 Jun 2021 12:43:48 -0400</pubDate>
+      
+      <guid>/post/harassment/</guid>
+      <description>MIDDLEWARE is an ACM event and every edition of MIDDLEWARE strictly abides by the ACM Policy Against Discrimination and Harassment
+Any individual who experiences or witnesses harassment (as described above) at MIDDLEWARE or any ACM activity should follow the ACM Procedures for Reporting Unacceptable Behavior.</description>
+    </item>
+    
+    <item>
+      <title>Want to Host MIDDLEWARE 2023/24?</title>
+      <link>/post/bids/</link>
+      <pubDate>Fri, 25 Jun 2021 12:36:52 -0400</pubDate>
+      
+      <guid>/post/bids/</guid>
+      <description>For 2023 and 2024, the steering committee is primarily looking for bids locations outside North America.
+More details on submitting an expression of interest are available here</description>
+    </item>
+    
+    <item>
+      <title>Bids for Hosting Middleware</title>
+      <link>/hosting/</link>
+      <pubDate>Fri, 25 Jun 2021 11:41:24 -0400</pubDate>
+      
+      <guid>/hosting/</guid>
+      <description>The Middleware conference plans at least two years ahead and is accepting expressions of interest (EOI) and proposals to host future conferences at any time. An EOI is put forward informally by email to the Chair of the Steering Committee of the Middleware Conference. The Steering Committee will then be in touch with the applicants to work towards the submission of a conference hosting proposal for a targeted year. The Steering Committee reserves the right to discourage applicants to go forward with a proposal.</description>
+    </item>
+    
+    <item>
+      <title>Steering Committee</title>
+      <link>/steering/</link>
+      <pubDate>Fri, 25 Jun 2021 11:41:17 -0400</pubDate>
+      
+      <guid>/steering/</guid>
+      <description> Hans-Arno Jacobsen (University of Toronto, Canada) - Chair Gordon Blair (Lancaster University, UK) Bettina Kemme (McGill University, Canada) - ACM representative Luis Veiga (Technical University of Lisbon, Portugal) - IFIP representative K. R. Jayaram (IBM T. J. Watson Research Center, USA) - Information Officer Anshul Gandhi (Stony Brook University, USA) Peter Pietzuch (Imperial College London, UK) Liuba Shrira (Brandeis University, USA) Paulo Ferreira (University of Oslo, Norway) Guillaume Pierre (University of Rennes, France) Mohammad Sadoghi (University of California, Davis, USA) Roman Vitenberg(University Oslo, Norway) Robbert van Renesse (Cornell University, USA) Vana Kalogeraki (Athens University of Economics and Business, Greece) Jan Rellermeyer (Technical University of Delft, Netherlands) Dilma Da Silva (Texas A&amp;amp;M University, USA) Rüdiger Kapitza (Technische Universität Braunschweig), Germany  </description>
+    </item>
+    
+    <item>
+      <title>Proceedings</title>
+      <link>/proceedings/</link>
+      <pubDate>Fri, 25 Jun 2021 11:40:59 -0400</pubDate>
+      
+      <guid>/proceedings/</guid>
+      <description>From 2014 onwards, the proceedings of MIDDLEWARE are published by ACM.
+From 1998-2013, the proceedings of MIDDLEWARE were published by Springer &amp;ndash; Lecture Notes in Computer Science (LNCS) and are crosslinked from the ACM Digital Library here (check under alphabet &amp;lsquo;M&amp;rsquo;)
+For your convenience, the proceedings of the main research track of MIDDLEWARE are linked below.
+The ACM page of MIDDLEWARE links proceedings of the Industry Track and several workshops that have been affiliated with MIDDLEWARE.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>/history/</link>
+      <pubDate>Fri, 25 Jun 2021 11:40:45 -0400</pubDate>
+      
+      <guid>/history/</guid>
+      <description>Year Venue Date General Chairs Program Chairs Acc. Rate     2021 Quebec City, Canada Dec 6 - 10 Kaiwen Zhang, Abdelouahed Gherbi Nalini Venkatasubramanian, Luís Veiga TBD   2020 Delft, Holland Dec 7 - 11 Jan S. Rellermeyer Dilma Da Silva, Rüdiger Kapitza 19.20%   2019 Davis, USA Dec 9 - 13 Mo Sadoghi, Roman Vitenberg Robbert van Renesse, Vana Kalogeraki 16.38%   2018 Rennes, France Nov 30 - Dec 4 Guillaume Pierre Paulo Ferreira, Liuba Shrira 23.</description>
+    </item>
+    
+  </channel>
+</rss>

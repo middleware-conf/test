@@ -1,0 +1,50 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+      <loc>/</loc>
+      <lastmod>2021-06-25T12:43:48-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/harassment/</loc>
+      <lastmod>2021-06-25T12:43:48-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/</loc>
+      <lastmod>2021-06-25T12:43:48-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/bids/</loc>
+      <lastmod>2021-06-25T12:36:52-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/hosting/</loc>
+      <lastmod>2021-06-25T11:41:24-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/steering/</loc>
+      <lastmod>2021-06-25T11:41:17-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/proceedings/</loc>
+      <lastmod>2021-06-25T11:40:59-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/history/</loc>
+      <lastmod>2021-06-25T11:40:45-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/categories/</loc>
+    </url>
+    
+    <url>
+      <loc>/tags/</loc>
+    </url>
+    </urlset>
