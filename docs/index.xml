@@ -68,15 +68,6 @@ More details on submitting an expression of interest are available here</descrip
     </item>
     
     <item>
-      <title>Award Winners</title>
-      <link>https://middleware-conf.github.io/test/awards/</link>
-      <pubDate>Fri, 25 Jun 2021 11:41:05 -0400</pubDate>
-      
-      <guid>https://middleware-conf.github.io/test/awards/</guid>
-      <description>Test of Time Award    Year Paper Authors     2020 FLEX: a slot allocation scheduling optimizer for MapReduce workloads Joel Wolf, Deepak Rajan, Kirsten Hildrum, Rohit Khandekar, Vibhore Kumar, Sujay Parekh, Kun-Lung Wu and Andrey Balmin (IBM Research, USA)   2019     2018 pMapper: power and migration cost aware application placement in virtualized systems Akshat Verma, (IBM Research, India), Puneet Ahuja, (IIT Delhi, India), Anindya Neogi (IBM Research, India)   2017 R-OSGi: Distributed Applications through Software Modularization Jan S.</description>
-    </item>
-    
-    <item>
       <title>Proceedings</title>
       <link>https://middleware-conf.github.io/test/proceedings/</link>
       <pubDate>Fri, 25 Jun 2021 11:40:59 -0400</pubDate>
@@ -95,6 +86,15 @@ The ACM page of MIDDLEWARE links proceedings of the Industry Track and several w
       
       <guid>https://middleware-conf.github.io/test/history/</guid>
       <description>Year Venue Date General Chairs Program Chairs Acc. Rate     2021 Quebec City, Canada Dec 6 - 10 Kaiwen Zhang, Abdelouahed Gherbi Nalini Venkatasubramanian, Luís Veiga TBD   2020 Delft, Holland Dec 7 - 11 Jan S. Rellermeyer Dilma Da Silva, Rüdiger Kapitza 25.21%   2019 Davis, USA Dec 9 - 13 Mo Sadoghi, Roman Vitenberg Robbert van Renesse, Vana Kalogeraki 24.03%   2018 Rennes, France Nov 30 - Dec 4 Guillaume Pierre Paulo Ferreira, Liuba Shrira 23.</description>
+    </item>
+    
+    <item>
+      <title>Award Winners</title>
+      <link>https://middleware-conf.github.io/test/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://middleware-conf.github.io/test/awards/</guid>
+      <description>Test of Time Award    Year Paper Authors     2020 FLEX: a slot allocation scheduling optimizer for MapReduce workloads Joel Wolf, Deepak Rajan, Kirsten Hildrum, Rohit Khandekar, Vibhore Kumar, Sujay Parekh, Kun-Lung Wu and Andrey Balmin (IBM Research, USA)   2019     2018 pMapper: power and migration cost aware application placement in virtualized systems Akshat Verma, (IBM Research, India), Puneet Ahuja, (IIT Delhi, India), Anindya Neogi (IBM Research, India)   2017 R-OSGi: Distributed Applications through Software Modularization Jan S.</description>
     </item>
     
   </channel>

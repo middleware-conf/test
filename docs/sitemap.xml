@@ -41,11 +41,6 @@
     </url>
     
     <url>
-      <loc>https://middleware-conf.github.io/test/awards/</loc>
-      <lastmod>2021-06-25T11:41:05-04:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://middleware-conf.github.io/test/proceedings/</loc>
       <lastmod>2021-06-25T11:40:59-04:00</lastmod>
     </url>
@@ -53,6 +48,10 @@
     <url>
       <loc>https://middleware-conf.github.io/test/history/</loc>
       <lastmod>2021-06-25T11:40:45-04:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://middleware-conf.github.io/test/awards/</loc>
     </url>
     
     <url>
