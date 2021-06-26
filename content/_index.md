@@ -13,7 +13,7 @@ The scope of the conference is the design, implementation, deployment, and evalu
 
 #### Contact
 
-For questions about the Middleware Conference, please contact the Steering Committee Chair: [Hans-Arno Jacobssen](https://www.eecg.utoronto.ca/~jacobsen/)
+For questions about the Middleware Conference, please contact the Steering Committee Chair: [Hans-Arno Jacobsen](https://www.eecg.utoronto.ca/~jacobsen/)
 
 For any questions or remarks about the Middleware Conference Web-site, please contact: [K. R. Jayaram](http://www.jayaramkr.com)
 
