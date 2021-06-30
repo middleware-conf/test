@@ -94,7 +94,7 @@ The ACM page of MIDDLEWARE links proceedings of the Industry Track and several w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://middleware-conf.github.io/test/awards/</guid>
-      <description>Test of Time Award    Year Paper Authors     2020 FLEX: a slot allocation scheduling optimizer for MapReduce workloads Joel Wolf, Deepak Rajan, Kirsten Hildrum, Rohit Khandekar, Vibhore Kumar, Sujay Parekh, Kun-Lung Wu and Andrey Balmin (IBM Research, USA)   2019     2018 pMapper: power and migration cost aware application placement in virtualized systems Akshat Verma, (IBM Research, India), Puneet Ahuja, (IIT Delhi, India), Anindya Neogi (IBM Research, India)   2017 R-OSGi: Distributed Applications through Software Modularization Jan S.</description>
+      <description>Test of Time Award The Test of Time Award, started in 2009, is given every year to a paper published in MIDDLEWARE 10 years prior, which has had the most impact since publication (in terms of seeding new research directions, influencing other research and/or resulting in widely used software systems). Candidates for the Test of Time Award are shortlisted and evaluated by a committee appointed by the Middleware Steering Committee. The awardees are invited to give a retrospective keynote talk at the conference.</description>
     </item>
     
   </channel>
